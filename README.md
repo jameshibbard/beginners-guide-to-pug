@@ -6,7 +6,7 @@ A Simple App Using Node, Express and Pug.js for Templating
 ## Requirements
 
 * [Node.js](http://nodejs.org/)
-* [json-server] installed globally (`npm i -g json-server`)
+* [json-server](https://github.com/typicode/json-server) installed globally (`npm i -g json-server`)
 
 ## Installation Steps (if applicable)
 
